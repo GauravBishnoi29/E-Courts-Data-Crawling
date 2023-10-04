@@ -1,0 +1,6 @@
+Must Have Libraries in your system
+1) Selenium
+2) Request
+3) Beautifulsoup
+4) Datetime
+5) urllib3
