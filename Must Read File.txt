@@ -7,4 +7,5 @@
 6) Tkinter
 7) pandas
 8) pdb
+9) cv2
 
