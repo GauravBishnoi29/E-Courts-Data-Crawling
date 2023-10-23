@@ -9,6 +9,6 @@
 8) pdb
 9) cv2
 10) urlib3
-11) shutil.move
+11) shutil
 12) glob
 13) 
