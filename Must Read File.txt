@@ -4,7 +4,7 @@
 3) Beautifulsoup
 4) Datetime
 5) urllib3
-6) Tkinter
+6) Tkint
 7) pandas
 8) pdb
 9) cv2
