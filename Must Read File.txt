@@ -3,7 +3,7 @@
 2) Request
 3) Beautifulsoup
 4) Datetime
-5) urllib3
+5) urllib
 6) Tkint
 7) pandas
 8) pdb
