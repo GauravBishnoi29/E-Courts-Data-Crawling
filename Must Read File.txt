@@ -4,7 +4,7 @@
 3) Beautifulsoup
 4) Datetime
 5) urllib
-6) Tkint
+6) import tkinter as tk
 7) pandas
 8) pdb
 9) cv2
